@@ -1,0 +1,22 @@
+[ZPHONEFIREWALL]
+LANG_NAME=Español
+MENU_MENU=Opciones
+MENU_EXIT=Salir
+MENU_UNINSTALL=Desinstalar
+MENU_ABOUT=Acerca de...
+MENU_SELECT=Seleccionar
+MENU_CANCEL=Cancelar
+MENU_ADD=Agregar número
+MENU_DELETE=Borrar número
+MENU_LANG=Cambiar idioma
+MAIN_STATE=Estado de PhoneBlocker
+MAIN_LIST=Tipo de blockeo
+MAIN_BLACK=Lista negra
+MAIN_WHITE=Lista blanca
+OPTIONS_ENABLED=Activado
+OPTIONS_DISABLED=Desactivado
+OPTIONS_ENABLE=Activar
+OPTIONS_DISABLE=Desactivar
+UNKNOWN_NUMBER=Número desconocido
+MENU_UNKNOWN=Bloquear desconocidos
+

@@ -1,0 +1,15 @@
+# KDevelop Custom Project File List
+BaseDlg.cpp
+BaseDlg.h
+GUI_Define.h
+Makefile
+ZAboutDlg.cpp
+ZAboutDlg.h
+ZFileBrowser.cpp
+ZFileBrowser.h
+ZFileDlg.cpp
+ZFileDlg.h
+main.cpp
+moc_zgui.cpp
+zgui.cpp
+zgui.h

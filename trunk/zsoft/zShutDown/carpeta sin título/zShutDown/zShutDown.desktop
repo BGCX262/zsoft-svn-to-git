@@ -1,0 +1,7 @@
+[Desktop Entry]
+BigIcon = zShutDown_usr.png
+Directory = zShutDown
+Exec = zShutDown
+AniIcon = zShutDown_usr.png
+Name = zShutDown
+Version = 1

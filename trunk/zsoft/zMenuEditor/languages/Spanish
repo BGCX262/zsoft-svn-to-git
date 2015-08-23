@@ -1,0 +1,20 @@
+[ZMENUEDITOR]
+LANG_NAME=Español
+INI_SEARCH=Buscando aplicaciones en el telefono
+INI_WAIT=Por favor espere...
+MENU_MENU=Opciones
+MENU_EXIT=Salir
+MENU_UNINSTALL=Desinstalar
+MENU_ABOUT=Acerca de...
+MENU_SELECT=Seleccionar
+MENU_CANCEL=Cancelar
+MENU_BACK=Atras
+MENU_ADD=Agregar entrada
+MENU_DELETE=Borra entrada
+DELETE_MSG=Desea borrar 
+DELETE_MSG2=borrado!
+ADD_MSG=agregado!
+APP_SELECT=Seleccione el item que desea agregar:
+LANG_CHANGE=Cambiar idioma
+MENU_LANGUAGE=Idioma
+EXIT_ASK=Necesita refrescar para aplicar los cambios. Desea refrescar ahora?

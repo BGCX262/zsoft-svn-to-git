@@ -1,0 +1,7 @@
+# KDevelop Custom Project File List
+Makefile
+TestMain.cpp
+TestWidget.cpp
+TestWidget.h
+ZConfig.h
+moc_TestWidget.cpp

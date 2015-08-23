@@ -1,0 +1,7 @@
+[Desktop Entry]
+BigIcon = zBTTime_usr.png
+Directory = zBTTime
+Exec = zBTTime
+AniIcon = zBTTime_usr.png
+Name = zBTTime
+Version = 1

@@ -1,0 +1,1 @@
+connect(ComboBox,SIGNAL(textChanged( const QString )),this,SLOT(zCombBoxtextChanged( const QString )));

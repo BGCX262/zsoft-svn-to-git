@@ -1,0 +1,7 @@
+[Desktop Entry]
+BigIcon = zCleaner_usr.png
+Directory = zCleaner
+Exec = zCleaner
+AniIcon = zCleaner_usr.png
+Name = zCleaner
+Version = 1
